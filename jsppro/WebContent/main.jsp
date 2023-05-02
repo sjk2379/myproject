@@ -8,7 +8,5 @@
 </head>
 <body>
 
-main.jsp(user1)
-
 </body>
 </html>
